@@ -1,2 +1,2 @@
 # dev-ops_project
-Timscdr codes project
+this is a github project for practice 
